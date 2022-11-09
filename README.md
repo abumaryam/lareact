@@ -5,7 +5,7 @@ https://www.itsolutionstuff.com/post/laravel-9-react-js-crud-using-vite-examplee
 
 ## Installation and Running
 ```
-git clone
+git clone https://github.com/abumaryam/lareact.git
 composer install
 php artisan migrate
 npm install
